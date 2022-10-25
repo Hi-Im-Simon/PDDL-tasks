@@ -24,10 +24,10 @@
 	(:goal
 		(and
 			(on k1 z)
-    	    (on k2 z)
-    	    (on k3 z)
-    	    (on k4 z)
-    	    (on k5 z)
+    	                (on k2 z)
+    	                (on k3 z)
+    	                (on k4 z)
+    	                (on k5 z)
 		)
 	)
 )
